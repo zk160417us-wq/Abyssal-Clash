@@ -1,0 +1,9 @@
+{
+  "car":        {"files": ["CarConcept.glb"], "length": 4.7},
+  "truck":      {"files": ["CesiumMilkTruck.glb"], "length": 6.2},
+  "pedestrian": {"files": [], "height": 1.8},
+  "sofa":       {"files": ["GlamVelvetSofa.glb"], "length": 2.3},
+  "chair":      {"files": ["ChairDamaskPurplegold.glb"], "height": 1.0},
+  "streetcar":  {"files": ["CarLite.glb"], "length": 4.6, "paint": "^Paint 1"},
+  "animal":     {"files": ["Fox.glb"], "length": 1.2}
+}

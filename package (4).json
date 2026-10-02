@@ -1,0 +1,13 @@
+{
+  "name": "core-conflict-server",
+  "version": "1.0.0",
+  "description": "Multiplayer server for Core Conflict",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {}
+}

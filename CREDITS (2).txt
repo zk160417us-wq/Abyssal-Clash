@@ -1,0 +1,20 @@
+3D MODELS USED IN CORE CONFLICT
+All from the Khronos glTF Sample Assets (github.com/KhronosGroup/glTF-Sample-Assets).
+
+CarConcept.glb            - "Car Concept" by Eric Chadwick            - CC BY 4.0
+CarLite.glb               - simplified street version of "Car Concept" by Eric Chadwick - CC BY 4.0
+CesiumMilkTruck.glb       - "Cesium Milk Truck" by Cesium             - CC BY 4.0
+GlamVelvetSofa.glb        - "Glam Velvet Sofa" by Eric Chadwick / Wayfair - CC BY 4.0
+ChairDamaskPurplegold.glb - "Chair Damask Purplegold" by Eric Chadwick / Wayfair - CC BY 4.0
+Fox.glb                   - "Fox" by PixelMannen (model), tomkranis (rig/animation) - CC0 / CC BY 4.0
+
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/  (you must keep this credit)
+CC0: https://creativecommons.org/publicdomain/zero/1.0/
+
+ADDING YOUR OWN MODELS
+1. Download a .glb file (Sketchfab "Downloadable", Poly Haven, Kenney, Quaternius...).
+2. Put it in this folder (public/models/).
+3. Add its file name to a slot in models.json, e.g.  "truck": { "files": ["CesiumMilkTruck.glb", "my_bus.glb"], "length": 6.2 }
+   Slots: car, truck, pedestrian (animated people - empty by default), sofa, chair, animal.  "length"/"height" = size in metres.
+   If a model faces the wrong way, add  "rotate": 90  (or 180 / -90).
+4. Restart the page. Keep models small (under ~50,000 triangles) except the showroom "car".
