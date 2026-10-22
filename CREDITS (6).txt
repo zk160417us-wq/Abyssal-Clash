@@ -1,0 +1,34 @@
+3D MODELS USED IN ABYSSAL CLASH
+
+CarConcept.glb            - "Car Concept" by Eric Chadwick            - CC BY 4.0
+CarLite.glb               - simplified street version of "Car Concept" by Eric Chadwick - CC BY 4.0
+CesiumMilkTruck.glb       - "Cesium Milk Truck" by Cesium             - CC BY 4.0
+GlamVelvetSofa.glb        - "Glam Velvet Sofa" by Eric Chadwick / Wayfair - CC BY 4.0
+ChairDamaskPurplegold.glb - "Chair Damask Purplegold" by Eric Chadwick / Wayfair - CC BY 4.0
+Fox.glb                   - "Fox" by PixelMannen (model), tomkranis (rig/animation) - CC0 / CC BY 4.0
+
+city_street.glb - from "street city (7) for games FREE" by dasy444 (sketchfab.com/dasy444) - Sketchfab Standard licence
+                  (textures made smaller and street pieces removed for the game)
+city_night.glb  - from "city at night low poly skyscrapers" by dasy444 (sketchfab.com/dasy444) - Sketchfab Standard licence
+                  (sky dome and ground removed for the game)
+swat.glb        - "SWAT" by Quaternius (quaternius.com) - CC0
+punk.glb        - "Punk" by Quaternius - CC0
+hooded.glb      - "Hooded Adventurer" by Quaternius - CC0
+man.glb         - "Man" by Quaternius - CC0
+missile.glb     - "Missile" by Poly by Google - CC BY 3.0
+
+CC BY: https://creativecommons.org/licenses/   (you must keep this credit)
+CC0:   https://creativecommons.org/publicdomain/zero/1.0/
+Sketchfab Standard: https://sketchfab.com/licenses  (use in your game is fine; don't share the model files on their own)
+
+soldier.glb — "Soldier Character" by Muhamad Mirza Arrafi
+  https://sketchfab.com/3d-models/soldier-character-dc88bfc47861426e8132b7b8d5174b48
+  License: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/) — textures resized; skeleton and animations added by the game.
+
+landscape.glb — "landscape forest & mountains" by dasy444
+  https://sketchfab.com/3d-models/landscape-forest-mountains-94809d21d7aa4cfe9b658a111b35a42c
+  License: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/) — meshes joined, textures resized; used as the mountain sky.
+
+ak47.glb — "AK 47 Assault Rifle" by MaX3Dd
+  https://sketchfab.com/3d-models/ak-47-assault-rifle-b59e17423c06416bb92b8e31d9ad5e8f
+  License: Sketchfab Standard (https://sketchfab.com/licenses) — textures resized. Keep the repository private.
