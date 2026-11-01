@@ -78,7 +78,36 @@ function checkLogin(name, pass) {
   const a = accounts[n];
   if (!a) { const salt = crypto.randomBytes(16).toString('hex'); accounts[n] = { salt, hash: hashPw(pw, salt), created: Date.now() }; saveAccounts(); return n; }
   const h = hashPw(pw, a.salt); return crypto.timingSafeEqual(Buffer.from(h, 'hex'), Buffer.from(a.hash, 'hex')) ? n : null;
+}// MAKE SURE THIS IS AT THE VERY END OF YOUR MAIN SERVER.JS
+try {
+  const { app, BrowserWindow } = require('electron');
+  
+  if (app) {
+    function createWindow() {
+      const mainWindow = new BrowserWindow({
+        width: 1024,
+        height: 768,
+      });
+
+      // Point this to your main server's port or your live Render link!
+      mainWindow.loadURL('http://localhost:3000'); 
+    }
+
+    app.whenReady().then(() => {
+      createWindow();
+      app.on('activate', () => {
+        if (BrowserWindow.getAllWindows().length === 0) createWindow();
+      });
+    });
+
+    app.on('window-all-closed', () => {
+      if (process.platform !== 'darwin') app.quit();
+    });
+  }
+} catch (e) {
+  // Render and your training ground will safely ignore this block
 }
+
 function authFail(ws, name) { send(ws, { type:'authFail', name: String(name || '').slice(0, 20), text:'Wrong password for "' + String(name || '').slice(0, 20) + '" on this server. That username is already taken here — log out and use another name, or type the right password.' }); }
 
 /* ─── friends + chat ─── */
