@@ -1,0 +1,57 @@
+{
+  "name": "core-conflict-server",
+  "version": "1.0.0",
+  "description": "Multiplayer server for Abyssal Clash (and the Abyssal Clash desktop app)",
+  "author": "zk160417us-wq",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zk160417us-wq/Abyssal-Clash.git"
+  },
+  "main": "main.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "electron-builder",
+    "dist": "electron-builder",
+    "app": "electron ."
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-builder": "^24.0.0"
+  },
+  "build": {
+    "appId": "com.abyssalclash.game",
+    "productName": "Abyssal Clash",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "main.js",
+      "loading.html",
+      "icon.png",
+      "package.json"
+    ],
+    "win": {
+      "target": [
+        "nsis"
+      ],
+      "icon": "icon.ico"
+    },
+    "mac": {
+      "target": [
+        "dmg"
+      ],
+      "icon": "icon.png"
+    },
+    "linux": {
+      "target": [
+        "AppImage"
+      ],
+      "icon": "icon.png"
+    },
+    "publish": null
+  }
+}
