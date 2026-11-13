@@ -1,0 +1,108 @@
+3D MODELS USED IN ABYSSAL CLASH
+
+CarConcept.glb            - "Car Concept" by Eric Chadwick            - CC BY 4.0
+CarLite.glb               - simplified street version of "Car Concept" by Eric Chadwick - CC BY 4.0
+CesiumMilkTruck.glb       - "Cesium Milk Truck" by Cesium             - CC BY 4.0
+GlamVelvetSofa.glb        - "Glam Velvet Sofa" by Eric Chadwick / Wayfair - CC BY 4.0
+ChairDamaskPurplegold.glb - "Chair Damask Purplegold" by Eric Chadwick / Wayfair - CC BY 4.0
+Fox.glb                   - "Fox" by PixelMannen (model), tomkranis (rig/animation) - CC0 / CC BY 4.0
+
+city_street.glb - from "street city (7) for games FREE" by dasy444 (sketchfab.com/dasy444) - Sketchfab Standard licence
+                  (textures made smaller and street pieces removed for the game)
+city_night.glb  - from "city at night low poly skyscrapers" by dasy444 (sketchfab.com/dasy444) - Sketchfab Standard licence
+                  (sky dome and ground removed for the game)
+swat.glb        - "SWAT" by Quaternius (quaternius.com) - CC0
+punk.glb        - "Punk" by Quaternius - CC0
+hooded.glb      - "Hooded Adventurer" by Quaternius - CC0
+man.glb         - "Man" by Quaternius - CC0
+missile.glb     - "Missile" by Poly by Google - CC BY 3.0
+
+CC BY: https://creativecommons.org/licenses/   (you must keep this credit)
+CC0:   https://creativecommons.org/publicdomain/zero/1.0/
+Sketchfab Standard: https://sketchfab.com/licenses  (use in your game is fine; don't share the model files on their own)
+
+soldier.glb — "Soldier Character" by Muhamad Mirza Arrafi
+  https://sketchfab.com/3d-models/soldier-character-dc88bfc47861426e8132b7b8d5174b48
+  License: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/) — textures resized; skeleton and animations added by the game.
+
+landscape.glb — "landscape forest & mountains" by dasy444
+  https://sketchfab.com/3d-models/landscape-forest-mountains-94809d21d7aa4cfe9b658a111b35a42c
+  License: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/) — meshes joined, textures resized; used as the mountain sky.
+
+ak47.glb — "AK 47 Assault Rifle" by MaX3Dd
+  https://sketchfab.com/3d-models/ak-47-assault-rifle-b59e17423c06416bb92b8e31d9ad5e8f
+  License: Sketchfab Standard (https://sketchfab.com/licenses) — textures resized. Keep the repository private.
+
+Guns (from Poly Pizza, poly.pizza):
+  gun_rifle.glb     — "Assault Rifle" by Quaternius (CC0)
+  gun_shotgun.glb   — "Shotgun" by Quaternius (CC0)
+  gun_launcher.glb  — "Scifi Grenade Launcher" by Quaternius (CC0)
+  gun_rifle2.glb    — "Assault Rifle" by Zsky (Poly Pizza, CC-BY — credit the author)
+  gun_sniper.glb    — "Sniper Rifle" by J-Toastie (Poly Pizza, CC-BY — credit the author)
+  gun_rpg.glb       — "RPG Launcher" by austincford (Poly Pizza, CC-BY — credit the author)
+
+tv_cabinet.glb — "TV cabinet" by DailyArt (https://sketchfab.com/D.art)
+  https://sketchfab.com/3d-models/tv-cabinet-6a7bf986d18e432c9f6a60b986dabb0d
+  License: CC-BY-NC-4.0 (credit required, no commercial use) — room removed, simplified, textures resized.
+fp_hands.glb — "First person hands (rigged)" from Sketchfab (converted from FBX). Check the model page for its licence and author credit.
+
+Citizen skins (Citizen, Office, Casual, Street, Hoodie) use the Quaternius models already in this folder:
+  man.glb (Man), punk.glb (Punk), hooded.glb (Hooded Adventurer) — CC0, no credit required.
+The VELOCE GT sports car is an original design made in code by the game (no model file).
+
+Realistic furniture (from the Khronos glTF Sample Assets, github.com/KhronosGroup/glTF-Sample-Assets) — textures made smaller and shapes simplified for the game:
+  r_sofa.glb   — "Sheen Wood Leather Sofa" by Eric Chadwick / Darmstadt Graphics Group GmbH (CC BY 4.0) and Fran Calvente (CC0)
+  r_chair.glb  — "Sheen Chair" (CC0)
+  r_fridge.glb — "Commercial Refrigerator" by Eric Chadwick / Darmstadt Graphics Group GmbH and Sean Thomas (CC BY 4.0)
+  r_plant.glb  — "Diffuse Transmission Plant" by Eric Chadwick / Darmstadt Graphics Group GmbH (CC BY 4.0) and Rico Cilliers (CC0)
+  r_vase.glb   — "Glass Vase with Flowers" (CC0)
+
+Battle maps (from Sketchfab, CC-BY 4.0 — credit the authors). For the game the triangles were reduced, the textures made smaller (WebP) and the files compressed (meshopt):
+  map_mobius1.glb  — "Mobius Facilities - Sector 1" by Veterock (https://sketchfab.com/windofglass)
+    https://sketchfab.com/3d-models/mobius-facilities-sector-1-c793d5c19d3f49709e5550c18c482cab
+  map_mobius8.glb  — "Mobius Facilities - Sector 8" by Veterock (https://sketchfab.com/windofglass)
+    https://sketchfab.com/3d-models/mobius-facilities-sector-8-e7a29ceff8f2484388f29b6c20a3e091
+  map_interior.glb — "Interior Map Videogame 0" by Claus the Modeler (https://sketchfab.com/johnyxtr)
+    https://sketchfab.com/3d-models/interior-map-videogame-0-ab63b8df175545beb599a370c97308e1
+  map_pvpmap.glb   — "PVP map" by leoxx300 (https://sketchfab.com/leoxx300)
+    https://sketchfab.com/3d-models/pvp-map-5d93a71dd0504695bf6c78e3f38c9c87
+  map_arena.glb    — "Arena" by lombardirowchik (https://sketchfab.com/lombardirowchik)
+    https://sketchfab.com/3d-models/arena-0f990d29a01f4ef5b2c5013797ea32fc
+  License for all five: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+chest.glb — "Chest_11MB" by Mehdi Shahsavan (https://sketchfab.com/ahmagh2e)
+  https://sketchfab.com/3d-models/chest-11mb-c02f78ad216f47859d3438d158de80d8
+  License: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/) — textures made smaller; the lid opens in the game.
+
+The meshopt decoder built into index.html is from meshoptimizer by Arseny Kapoulkine (MIT License).
+
+Lobby models (from Sketchfab, CC-BY 4.0 — credit the authors). For the game the textures were made smaller and the files compressed (meshopt):
+  volcano_v1.glb    — "Volcano V1" by JayT3D (https://sketchfab.com/beardyjosh)
+    https://sketchfab.com/3d-models/volcano-v1-cf92d35ac0c34b71a44870959ed3abc3
+    (in the game: made round and its edges lowered to fit Volcano Isle)
+  military_base.glb — "College - Military Base" by manicvika (https://sketchfab.com/manicvika)
+    https://sketchfab.com/3d-models/college-military-base-4d296ad86e0c481dacef2d8c566f639e
+    (in the game: painted in army colours and stood on flat ground)
+  hind_heli.glb     — "Hind Attack Helicopter" by Ashley Aslett (https://sketchfab.com/AshleyAslett)
+    https://sketchfab.com/3d-models/hind-attack-helicopter-bb65bdfde2c54007a52dfbe1d91d930d
+    (in the game: the rotors spin and one helicopter flies a patrol)
+  License for all three: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+Version 105 models (Sketchfab, CC-BY 4.0 - credit the authors: https://creativecommons.org/licenses/by/4.0/):
+  map_fpsarena.glb  - "FPS map" by dreamyX (https://sketchfab.com/dreamyX)
+                      https://sketchfab.com/3d-models/fps-map-9c8e60bc15484903b2803d3daf7b6f8e
+                      In the game: NEON ARENA (made 2x bigger, file compressed).
+  map_lowpoly.glb   - "Lowpoly-Map-Karlson Style" by Moon Moon (https://sketchfab.com/zoherrose7)
+                      https://sketchfab.com/3d-models/lowpoly-map-karlson-style-60f8b9f3b1384bd69d219e442035bc3e
+                      In the game: LOW-POLY LABS (door panels removed, textures made smaller, file compressed; a ramp added by the game).
+  prop_sandbags.glb - "Sandbag Wall - 24MB" by adventurer (https://sketchfab.com/ahmagh2e)
+                      https://sketchfab.com/3d-models/sandbag-wall-24mb-35f39f3b391040169eb04d9a339d88a5
+                      In the game: the sandbag cover in the model maps (triangles reduced, textures made smaller, file compressed).
+
+Version 106 maps (made for Abyssal Clash, no outside models or textures - shapes and textures are generated by our own map maker):
+  map_dust.glb   - DUST TOWN      (a walled desert town)
+  map_pines.glb  - PINE VALLEY    (a forest valley with a waterfall)
+  map_frost.glb  - FROST OUTPOST  (a snowy army outpost by a frozen lake)
+  map_keep.glb   - STONE KEEP     (a castle)
+  The themes (desert town, forest, snow, castle) were inspired by the classic maps of arena shooters; nothing was copied.
+  The new first-person sleeves, gloves and reload animations are also our own work (on the existing fp_hands.glb).
